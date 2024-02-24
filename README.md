@@ -7,7 +7,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Live Site URL - [https://nft-card-preview-challenge-fm.netlify.app/] (https://nft-card-preview-challenge-fm.netlify.app/)
+- Live Site URL - [https://nft-card-preview-challenge-fm.netlify.app/](https://nft-card-preview-challenge-fm.netlify.app/)
 
 # Author 
 
